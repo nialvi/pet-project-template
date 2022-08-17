@@ -1,6 +1,6 @@
 # Pet-project-template
 
-This is a template for my easy-peasy pet projects.
+This is a template for my easy-peasy pet projects. Inpired by [this project](https://github.com/bespoyasov/treees) which implement a clean architecture on frontend.
 
 Stack:
 
